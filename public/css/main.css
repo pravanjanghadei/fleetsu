@@ -1,0 +1,17 @@
+.red{
+	background-color: red;
+}
+
+.green{
+	background-color: green;
+}
+
+.nodata{
+	font-weight: bold;
+	color:red;
+}
+
+#btn_search{
+	background-color: green;
+	font-weight: bold;
+}
