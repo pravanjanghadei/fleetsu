@@ -24,7 +24,7 @@ This is to render the search page in the web
     	if($request->ajax()){
     		//$querystr	=	$_POST['devicename'];//.'/'.$_POST['_token'];
 
-    		$url		=	"http://localhost/pravanjan/public/devices";
+    		$url		=	"http://localhost/fleetsu/public/devices";
     		$client 	= 	new GuzzleClient();
 
 	        $response 	= 	$client->get($url
